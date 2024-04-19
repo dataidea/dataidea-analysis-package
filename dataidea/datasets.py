@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def load(name:str=None, inbuilt=True, file_type:str=None):
+def load_dataset(name:str=None, inbuilt=True, file_type:str=None):
     '''
     Easily load datasets that are inbuit in DATAIDEA
 

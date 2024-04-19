@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dataidea"
-version = "0.2.0"
+version = "0.2.3"
 description = "Package to ease data analysis for DATAIDEA students"
 authors = ["jumashafara <jumashafara0@gmail.com>"]
 license = "MIT"
