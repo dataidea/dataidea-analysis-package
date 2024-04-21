@@ -31,7 +31,7 @@ from dataidea.tabular import *
 `dataidea`'s applications all use the same basic steps and code:
 
 - Create appropriate DataLoaders
-- Create a Learner
+- Create a Trainer
 - Call a fit method
 - Make predictions or view results.
 
